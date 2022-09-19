@@ -5,7 +5,7 @@ public class ChallengeIf {
         double nota = 1.3;
 
         if(nota >= 9.0){
-            System.out.println("Tu eres el increíble");
+            System.out.println("Tu eres increíble");
         }
        
 
