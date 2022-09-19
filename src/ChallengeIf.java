@@ -4,14 +4,10 @@ public class ChallengeIf {
     public static void main(String[] args) {
         double nota = 1.3;
 
-        if(nota >= 9.0);{
+        if(nota >= 9.0){
             System.out.println("Tu eres el increíble");
         }
-        if(nota = 4.9 && >= 4.0)
-            System.out.println("Estás de recuperación");
-
-        if(nota < 4);
-        System.out.println("Estás reprobado");
+       
 
     }
 }
